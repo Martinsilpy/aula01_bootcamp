@@ -13,10 +13,7 @@ bonus_usuario = float(input("Digite o seu bônus: "))
 constate_bonus = 1000
 valor_do_bonus = constate_bonus + salario_usuario * bonus_usuario
 
-# 5) Imprima cálculo do KPI para o usuário
-
-
-# 6) Imprime a mensagem personalizada incluindo o nome do usuário, salário e bônus
+# 5) Imprime a mensagem personalizada incluindo o nome do usuário, salário e bônus
 print(f"O usuário {nome_usuario} possui o bônus de {valor_do_bonus}")
 
 # Bônus: Quantos bugs e riscos você consegue identificar nesse programa?
